@@ -11,5 +11,6 @@ int main(){
         cout<<a/b<<endl;
     }
     cout<<a-b<<endl;
+    cout<<"Good Morning"<<"Rk Junaid"<<endl;
     
 }
